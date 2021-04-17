@@ -8,6 +8,8 @@
 
 > Joke hub is a vue spa which uses tailwind.css 2.x for styling. The spa consumes joke's api to display jokes elegantly.
 
+### ✨ [Demo](https://joke-hub.vercel.app/)
+
 ## Author
 
 👤 **Tushar Khubani**

@@ -8,7 +8,7 @@
       <p>Joke hub</p>
       <a
         class="text-gray-700 dark:text-gray-400"
-        href="https://github.com/tushark1"
+        href="https://github.com/tushark1/joke-hub"
         target="_blank"
         rel="noopener noreferrer"
       >
