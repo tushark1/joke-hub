@@ -18,7 +18,6 @@
 
 ## Show your support
 
-API Credits [@Sv443](https://github.com/Sv443/JokeAPI)
 Give a ⭐️ if this project helped you!
 
 ---
